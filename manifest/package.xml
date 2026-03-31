@@ -69,5 +69,9 @@
         <members>TASKRAY__trTaskGroup__c.Custom_URL__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>QA_TaskRay_All_Custom_Field_Types</members>
+        <name>PermissionSet</name>
+    </types>
     <version>62.0</version>
 </Package>

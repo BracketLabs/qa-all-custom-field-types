@@ -33,6 +33,7 @@ The purpose of this project is to easily enable testing for all custom field typ
 
 1. Connect your 2GP org to Visual Studio Code using 'SFDX: Authorize An Org' in the command pallette
 2. Right-click 'package.xml' (in manifest directory) and select 'SFDX: Deploy Source in Manifest to Org'
+3. Assign 'QA TaskRay All Custom Field Types' Perm Set to your User which grants Read and Edit field perms
 
 ## Read All About It
 
